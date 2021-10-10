@@ -1,0 +1,5 @@
+C:/Users/szymon/source/repos/UBVSR/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/szymon/source/repos/UBVSR/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/szymon/source/repos/UBVSR/out/build/x64-Debug/UBVSR/CMakeFiles/UBVSR.dir
+C:/Users/szymon/source/repos/UBVSR/out/build/x64-Debug/UBVSR/CMakeFiles/edit_cache.dir
+C:/Users/szymon/source/repos/UBVSR/out/build/x64-Debug/UBVSR/CMakeFiles/rebuild_cache.dir
