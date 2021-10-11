@@ -1,6 +1,6 @@
 ﻿#include "UBVSR.hpp"
 
-int main()
+int main(int, char**)
 try
 {
 	std::cout << "Hello UBVSR.\n";
@@ -10,7 +10,7 @@ try
 		throw std::runtime_error("Failed to init SDL");
 	}
 
-	ubv::Window window(ubv::WindowProps { 1280, 720, "test" } );
+	ubv::Window window(ubv::WindowProps{1280, 720, "test"});
 	std::cout << "Error code: " << SDL_GetError() << std::endl;
 
 	std::cout << "Goodbye UBVSR\n";
@@ -19,7 +19,7 @@ try
 
 	return 0;
 }
-catch (const std::exception& exception)
+catch (const std::exception &exception)
 {
 	std::cout << "Fatal error!\n" << exception.what() << std::flush;
 }

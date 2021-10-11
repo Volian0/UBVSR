@@ -1,11 +1,11 @@
 ﻿#pragma once
 
-#include <iostream>
-#include <cstdint>
-#include <string>
-#include <stdexcept>
-
 #include <SDL2/SDL.h>
 #include <SDL2/SDL_image.h>
+
+#include <cstdint>
+#include <iostream>
+#include <stdexcept>
+#include <string>
 
 #include "Window.hpp"
